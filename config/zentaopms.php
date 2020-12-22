@@ -20,6 +20,10 @@ $config->productCommonList['zh-tw'][1] = '項目';
 $config->productCommonList['en'][0] = 'Product';
 $config->productCommonList['en'][1] = 'Project';
 
+$config->productCommonList['pt-br'][0] = 'Produto';
+$config->productCommonList['pt-br'][1] = 'Projeto';
+
+
 $config->productCommonList['de'][0] = 'Produkt';
 $config->productCommonList['de'][1] = 'Projekt';
 
@@ -41,6 +45,11 @@ $config->projectCommonList['zh-tw'][2] = '冲刺';
 $config->projectCommonList['en'][0] = 'Project';
 $config->projectCommonList['en'][1] = 'Iteration';
 $config->projectCommonList['en'][2] = 'Sprint';
+
+$config->projectCommonList['pt-br'][0] = 'Projeto';
+$config->projectCommonList['pt-br'][1] = 'Iteração';
+$config->projectCommonList['pr-br'][2] = 'Sprint';
+
 
 $config->projectCommonList['de'][0] = 'Projekt';
 $config->projectCommonList['de'][1] = 'Iteration';
@@ -85,6 +94,12 @@ $config->hourPointCommonList['zh-tw'][2] = '功能点';
 $config->hourPointCommonList['en'][0] = 'hour';
 $config->hourPointCommonList['en'][1] = 'story point';
 $config->hourPointCommonList['en'][2] = 'function point';
+
+$config->hourPointCommonList['pt-br'][0] = 'hora';
+$config->hourPointCommonList['pt-br'][1] = 'ponto da história';
+$config->hourPointCommonList['pt-br'][2] = 'ponto de função';
+
+
 
 $config->hourPointCommonList['de'][0] = 'hour';
 $config->hourPointCommonList['de'][1] = 'story point';
