@@ -1,7 +1,7 @@
 
 <?php
 /**
- * The action module English file of ZenTaoPMS.
+ * The action module Portugues Brasil file of ZenTaoPMS.
  *
  * @copyright   Copyright 2009-2015 青岛易软天创网络科技有限公司(QingDao Nature Easy Soft Network Technology Co,LTD, www.cnezsoft.com)
  * @license     ZPL (http://zpl.pub/page/zplv12.html)
@@ -11,24 +11,24 @@
  * @link        http://www.zentao.net
  */
 $lang->action->common     = 'Log';
-$lang->action->product    = $lang->productCommon;
-$lang->action->project    = $lang->projectCommon;
-$lang->action->objectType = 'Object Type';
+$lang->action->product    = 'Produto';
+$lang->action->project    = 'Projeto';
+$lang->action->objectType = 'Objeto Typo';
 $lang->action->objectID   = 'ID';
-$lang->action->objectName = 'Object Name';
-$lang->action->actor      = 'User';
-$lang->action->action     = 'Action';
+$lang->action->objectName = 'Objeto Nome';
+$lang->action->actor      = 'Usuário';
+$lang->action->action     = 'Ação';
 $lang->action->actionID   = 'Action ID';
-$lang->action->date       = 'Date';
+$lang->action->date       = 'Data';
 $lang->action->extra      = 'Extra';
 
 $lang->action->trash       = 'Recycle';
 $lang->action->undelete    = 'Restore';
 $lang->action->hideOne     = 'Hide';
 $lang->action->hideAll     = 'Hide All';
-$lang->action->editComment = 'Edit Comment';
-$lang->action->create      = 'Add Comment';
-$lang->action->comment     = 'Comment';
+$lang->action->editComment = 'Editar Comentário';
+$lang->action->create      = 'Add Comentário';
+$lang->action->comment     = 'Comentário';
 
 $lang->action->trashTips      = 'Note: Delete in ZenTao is logic.';
 $lang->action->textDiff       = 'Text Format';
