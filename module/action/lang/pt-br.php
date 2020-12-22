@@ -46,16 +46,16 @@ $lang->action->history->new    = 'New value';
 $lang->action->history->diff   = 'Compare';
 
 $lang->action->dynamic = new stdclass();
-$lang->action->dynamic->today      = 'Today';
-$lang->action->dynamic->yesterday  = 'Yesterday';
-$lang->action->dynamic->twoDaysAgo = '2 Days Ago';
-$lang->action->dynamic->thisWeek   = 'This Week';
-$lang->action->dynamic->lastWeek   = 'Last Week';
-$lang->action->dynamic->thisMonth  = 'This Month';
-$lang->action->dynamic->lastMonth  = 'Last Month';
-$lang->action->dynamic->all        = 'All';
-$lang->action->dynamic->hidden     = 'Hidden';
-$lang->action->dynamic->search     = 'Search';
+$lang->action->dynamic->today      = 'Hoje';
+$lang->action->dynamic->yesterday  = 'Ontem';
+$lang->action->dynamic->twoDaysAgo = '2 dias atrás';
+$lang->action->dynamic->thisWeek   = 'Esta semana';
+$lang->action->dynamic->lastWeek   = 'Semana Passada';
+$lang->action->dynamic->thisMonth  = 'Este mês';
+$lang->action->dynamic->lastMonth  = 'Mês passado';
+$lang->action->dynamic->all        = 'Todos';
+$lang->action->dynamic->hidden     = 'Oculto';
+$lang->action->dynamic->search     = 'Pesquisa';
 
 $lang->action->periods['all']       = $lang->action->dynamic->all;
 $lang->action->periods['today']     = $lang->action->dynamic->today;
